@@ -31,21 +31,22 @@ Beginner programmers often encounter compiler and runtime errors that they do no
 ## Target User
 
 Beginner coders using java/python.
-College students in their first/second year.
-Students not from tech background and want to learn coding.
+Second‑year student starting DSA
+Self‑learner from non‑CS branch
+
 
 ## User Pain Points
 
-- Cant understand terminal langauge
-- 
-- 
+- Cryptic error messages in terminal
+- Copy-paste → full fix habit
+- Logic vs syntax confusion
 
 ## Problem Hypothesis
 
-> If an AI assistant provides guided explanations and progressive hints instead of immediately giving the corrected code, beginners may develop a better understanding of programming errors.
+If an AI assistant provides guided explanations and progressive hints instead of immediately giving the corrected code, beginners may develop a better understanding of programming errors.
 
 ## Why This Problem Matters
 
-to help people just starting out in code to understand what they code and apply it.
+this product is to help people just starting out in code to understand what they code and apply it. it will help build the base and the foundation for DSA. 
 
 
